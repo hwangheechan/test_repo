@@ -1,4 +1,5 @@
 DHK test
 Touched by user2
 
-print(hello)
+print("hello")
+print("Welcome")
