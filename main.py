@@ -4,3 +4,4 @@ Touched by user2
 print("hello")
 print("Welcome to HUFS")
 print("Good Luck!")
+print(3)
